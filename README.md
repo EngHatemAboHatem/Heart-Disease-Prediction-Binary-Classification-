@@ -27,3 +27,8 @@ The dataset used is the **Heart Disease UCI Dataset**. It contains 303 patient r
 1. Open the Jupyter Notebook/Google Colab.
 2. Install dependencies: `pip install pandas seaborn scikit-learn`.
 3. Run the cells sequentially to see the data analysis and model performance.
+
+👤 Author & Organization
+Author: Hatem Ali
+Student ID: DHC-1079
+Organization: DevelopersHub Corporation
